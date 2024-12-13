@@ -1,9 +1,12 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-<!--
-**RahulHipparkar/RahulHipparkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I'm Ruchi Bhatia, a Graduate Student at Carnegie Mellon University and currently a 3x Kaggle Grandmaster (Notebooks, Datasets & Discussion).
 
-Here are some ideas to get you started:
+Having started coding at an early age and also having completed my Bachelor’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. Working in the technology sector of various MNCs like Sony and Colgate-Palmolive has helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.       
+
+My key interest lies solely in sharing my technical expertise with people. I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
