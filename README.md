@@ -1,9 +1,9 @@
 <h2 align="center">Hi there 👋</h2>
 
 ---
-I'm Rahul Hipparkar, a Data Scientist with 3.5 years of professional experience in Software Development, Automation and Data Science . An active contributor to Kaggle, I’ve earned 3 Bronze Medals in competitive machine learning challenges, showcasing my expertise in building innovative solutions for real-world problems.
+I'm Rahul Hipparkar, a professional with 3.5 years of experience in Software Development, Automation and Data Science . An active contributor to Kaggle, I’ve earned 3 Medals in competitive machine learning challenges, showcasing my expertise in building innovative solutions for real-world problems.
 
-My journey in technology began during high school, and it has been a transformative experience ever since. I am particularly passionate about Data Science, Artificial Intelligence, and Automation, with a focus on applying these technologies to create scalable solutions in healthcare and sustainability. My work experience with organization like Eviden has helped me gain valuable insights into leveraging Generative AI and ML models to drive impactful outcomes.
+My journey in technology began during high school, and it has been a transformative experience ever since. I am particularly passionate about Data Science and Artificial Intelligence, with a focus on applying these technologies to create scalable solutions in healthcare and sustainability. My work experience with organization like Eviden has helped me gain valuable insights into leveraging Generative AI and ML models to drive impactful outcomes.
 
 I strongly believe in the power of continuous improvement and innovation, inspired by the Japanese philosophy of Kaizen. I thrive on solving complex challenges, whether it’s creating AI-powered diagnostic tools for rural healthcare or implementing predictive models for optimizing agricultural resources.
 
