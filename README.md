@@ -1,11 +1,17 @@
 <h2 align="center">Hi there 👋</h2>
 
 ---
-I'm Ruchi Bhatia, a Graduate Student at Carnegie Mellon University and currently a 3x Kaggle Grandmaster (Notebooks, Datasets & Discussion).
+I'm Rahul Hipparkar, a Data Scientist with 3.5 years of professional experience in Software Development, Automation and Data Science . An active contributor to Kaggle, I’ve earned 3 Bronze Medals in competitive machine learning challenges, showcasing my expertise in building innovative solutions for real-world problems.
 
-Having started coding at an early age and also having completed my Bachelor’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. Working in the technology sector of various MNCs like Sony and Colgate-Palmolive has helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.       
+My journey in technology began during high school, and it has been a transformative experience ever since. I am particularly passionate about Data Science, Artificial Intelligence, and Automation, with a focus on applying these technologies to create scalable solutions in healthcare and sustainability. My work experience with organization like Eviden has helped me gain valuable insights into leveraging Generative AI and ML models to drive impactful outcomes.
 
-My key interest lies solely in sharing my technical expertise with people. I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.
+I strongly believe in the power of continuous improvement and innovation, inspired by the Japanese philosophy of Kaizen. I thrive on solving complex challenges, whether it’s creating AI-powered diagnostic tools for rural healthcare or implementing predictive models for optimizing agricultural resources.
+
+Beyond my technical pursuits, I enjoy sharing knowledge with the community through collaborative projects and discussions. My long-term vision is to leverage AI to empower underserved communities and address critical societal challenges.
+
+Let’s connect and build something impactful together!
+
+Why This Works:
 
 
 - 🔭 I’m currently working on ...
