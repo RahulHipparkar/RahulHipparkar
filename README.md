@@ -9,8 +9,12 @@ I strongly believe in the power of continuous improvement and innovation, inspir
 
 Beyond my technical pursuits, I enjoy sharing knowledge with the community through collaborative projects and discussions. My long-term vision is to leverage AI to empower underserved communities and address critical societal challenges.
 
+Let’s connect and build something impactful together!
+
 <p align=center>
 <a href="https://www.kaggle.com/hipparkarrahul18"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
+<a href="https://www.linkedin.com/in/rahul-hipparkar-9b1b39112/"><img height="25" src="https://img.shields.io/badge/Linkedin-profile-%2320beff"></a>
+</p>
 
 Why This Works:
 
