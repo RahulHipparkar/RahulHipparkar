@@ -55,8 +55,8 @@ Github Stats:
 
 <div>
   <a href="https://github.com/sohilsharma1996">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohilsharma1996&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohilsharma1996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulHipparkar&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulHipparkar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 
