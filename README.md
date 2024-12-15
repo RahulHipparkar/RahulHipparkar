@@ -29,8 +29,22 @@ Recent work:
 - <a href="https://www.kaggle.com/code/hipparkarrahul18/regression-of-used-car-prices">Kaggle Competiton: Regression of Used Car Prices</a>
 ---
 Skills:
+
 ![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Statsmodels Badge](https://img.shields.io/badge/Statsmodels-%23F37626.svg?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn Badge](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras Badge](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLTK Badge](https://img.shields.io/badge/NLTK-%23009DFF.svg?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV Badge](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning Badge](https://img.shields.io/badge/Deep%20Learning-%230076D6.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLMs Badge](https://img.shields.io/badge/LLMs-%2312100E.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI Badge](https://img.shields.io/badge/Generative%20AI-%23430098.svg?style=for-the-badge&logo=openai&logoColor=white)
 
