@@ -53,10 +53,10 @@ Skills:
 ---
 Github Stats:
 
-<div>
-  <a href="https://github.com/sohilsharma1996">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulHipparkar&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulHipparkar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+![RahulHipparkar's Stats](https://github-readme-stats.vercel.app/api?username=RahulHipparkar&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![RahulHipparkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulHipparkar&theme=radical&hide_border=false)
+![RahulHipparkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulHipparkar&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
 
 
