@@ -28,3 +28,9 @@ Recent work:
 - <a href="https://www.kaggle.com/code/hipparkarrahul18/blood-glucose-prediction-using-deep-learning">Kaggle Competition: BrisT1D Blood Glucose Prediction Competition</a>
 - <a href="https://www.kaggle.com/code/hipparkarrahul18/regression-of-used-car-prices">Kaggle Competiton: Regression of Used Car Prices</a>
 ---
+Skills:
+![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
