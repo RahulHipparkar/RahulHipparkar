@@ -45,6 +45,8 @@ Skills:
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning Badge](https://img.shields.io/badge/Deep%20Learning-%230076D6.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision Badge](https://img.shields.io/badge/Computer%20Vision-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP Badge](https://img.shields.io/badge/Natural%20Language%20Processing-%2334A853.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![LLMs Badge](https://img.shields.io/badge/LLMs-%2312100E.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Generative AI Badge](https://img.shields.io/badge/Generative%20AI-%23430098.svg?style=for-the-badge&logo=openai&logoColor=white)
 
