@@ -19,8 +19,7 @@ Let’s connect and build something impactful together!
 
 ---
 I'm currently:
-- 👩‍💻a Data Science Global Ambassador at Z by HP 
-- 👩‍💻a Dev Expert at Weights & Biases
-- 🌱 Sharpening my Deep Learning skill set
+- 👩‍💻a Data Science student at Scaler
+- 🌱 Sharpening my Machine Learning and Deep Learning skill set
 - 👯 Looking to collaborate on Kaggle competitions
 ---
