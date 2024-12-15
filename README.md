@@ -53,10 +53,20 @@ Skills:
 ---
 Github Stats:
 
-![RahulHipparkar's Stats](https://github-readme-stats.vercel.app/api?username=RahulHipparkar&theme=radical&show_icons=true&hide_border=false&count_private=true)
+<img align="center" src="https://streak-stats.demolab.com/?user=RahulHipparkar&theme=tokyonight" style="border-radius: 8px;"/>
 
-![RahulHipparkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulHipparkar&theme=radical&hide_border=false)
-![RahulHipparkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulHipparkar&theme=radical&show_icons=true&hide_border=false&layout=compact)
+<div style="border: 2px solid #81A1C1; border-radius: 10px; padding: 20px; background-color: #1a1b27; display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/RahulHipparkar" style="text-decoration: none; display: flex; flex-direction: row; align-items: center;">
+    <!-- Top Languages -->
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulHipparkar&layout=compact&langs_count=16&theme=tokyonight" style="border-radius: 8px; margin-right: 20px;"/>
+    <!-- GitHub Stats -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulHipparkar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" style="border-radius: 8px;"/>
+  </a>
+</div>
+
+
+
+
 
 
 
