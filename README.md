@@ -23,3 +23,8 @@ I'm currently:
 - 🌱 Sharpening my Machine Learning and Deep Learning skill set
 - 👯 Looking to collaborate on Kaggle competitions
 ---
+Recent work:
+- <a href="https://www.kaggle.com/code/hipparkarrahul18/generating-essays-using-llms-gemma-2">Kaggle Competition : LLMs - You Can't Please Them All</a>
+- <a href="https://www.kaggle.com/code/hipparkarrahul18/blood-glucose-prediction-using-deep-learning">Kaggle Competition: BrisT1D Blood Glucose Prediction Competition</a>
+- <a href="https://www.kaggle.com/code/hipparkarrahul18/regression-of-used-car-prices">Kaggle Competiton: Regression of Used Car Prices</a>
+---
